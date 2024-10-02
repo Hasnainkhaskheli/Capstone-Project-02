@@ -1,0 +1,707 @@
+
+.badges:hover {
+    color: white;
+    background-color: #26e8e8;
+    border-radius: 6px;
+    font-weight: bolder;
+}
+
+.top-nav-h:hover {
+    cursor: pointer;
+    color: #00BFA6;
+}
+
+.card-btns {
+    background-color: #00BFA6;
+}
+
+
+
+
+
+.light-green {
+    background-color: #82b440;
+    border: none;
+}
+
+.brand {
+    background-color: #0bfcfc1c;
+    color: #50e7e78f;
+    border-radius: 98px 0px 5px 95px;
+    letter-spacing: 0.1rem;
+}
+
+.gen {
+    letter-spacing: 0.1rem;
+}
+
+.feature {
+
+    background-color: #0bfcfc1c;
+    padding: 0px 10px;
+}
+
+.btn-buy {
+    background-color: #00a6a6;
+
+}
+
+.btn-view {
+    border: 1px solid #00a6a6;
+    background: none;
+}
+
+.btn-view:hover {
+    background-color: #00a6a6;
+}
+
+.badges {
+    background-color: #0bfcfc1c;
+    color: #50e7e78f;
+
+}
+
+
+.cart-div {
+    margin-bottom: 200px;
+}
+
+.input {
+    outline: none;
+    border: none;
+    background-color: rgb(54, 53, 53);
+    border-radius: 6px;
+}
+
+:root {
+    --var_primary-ayaz: #0beaea;
+}
+
+.nexgen {
+    font-size: 50px;
+}
+
+.img-cart {
+    width: 100%;
+}
+
+
+.div-01 {
+    width: 100%;
+}
+
+.big-man {
+    background-color: #171A1C;
+}
+
+.color {
+    font-size: 50px;
+}
+
+.border-btn {
+    border: 2px solid #0beaea;
+    border-radius: 8px;
+    background: none;
+}
+
+.around {
+    color: #59a4a4;
+}
+
+.border-btn:hover {
+    background-color: #00a6a6;
+    color: white;
+}
+
+
+.nav-item a:hover {
+    cursor: pointer;
+    color: #00a6a6 !important;
+}
+
+.olx {
+    z-index: 10;
+}
+
+.sub-headings-sections {
+
+    color: #00BFA6 !important;
+    font-weight: bold;
+}
+
+/* ================ OFFCAVAS CSS ============== */
+details summary {
+    list-style-type: none;
+}
+
+.off-consl {
+    display: flex;
+
+    line-height: 15px !important;
+}
+
+
+.off-consl span {
+
+    margin: 0px !important;
+}
+
+/* ================ OFFCAVAS CSS END ============== */
+
+.intro-video-section {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.intro-video-section .title {
+    color: #00BFA6;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.intro-video-section .advisory {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.intro-video-section .advisory .performance {
+    background-color: #DFF6F0;
+    color: #00BFA6;
+    padding: 5px 10px;
+    border-radius: 5px;
+
+}
+
+
+.offcan-badge {
+    padding: 10px;
+    color: black;
+    background-color: rgba(5, 130, 131, 0.15);
+    border-radius: 5px;
+
+
+}
+
+
+
+.offcan-badge:hover {
+    background-color: #00BFA6;
+    color: white;
+}
+
+.intro-video-section .description {
+    color: #6c757d;
+    margin-bottom: 30px;
+}
+
+.intro-video-section .video-placeholder {
+    position: relative;
+    display: inline-block;
+}
+
+.intro-video-section .video-placeholder img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.intro-video-section .video-placeholder .play-button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    border: none;
+    border-radius: 50%;
+    padding: 20px;
+    color: white;
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.results-section {
+    background: url('./images/bg-7.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 50px 0;
+    position: relative;
+}
+
+.feme {
+    height: 20px;
+    ;
+}
+
+.results-section::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1;
+}
+
+.results-section .container {
+    position: relative;
+    z-index: 2;
+}
+
+.results-section h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.results-section .stat {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #00BFA6;
+}
+
+.results-section .label {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.container {
+    padding: 50px;
+    text-align: center;
+}
+
+
+
+.team {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.team-member {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    width: 30%;
+    margin-bottom: 20px;
+    text-align: left;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.team-member img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.team-member h3 {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+
+.team-member h4 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #999;
+}
+
+.social-icons {
+    display: flex;
+    gap: 10px;
+}
+
+.social-icons a {
+    color: #0b5d6b;
+    text-decoration: none;
+}
+
+.president-speech {
+    background-color: #0b5d6b;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+
+.president-speech h2 {
+    font-size: 24px;
+    margin-top: 0;
+}
+
+.results-section .description {
+    margin-bottom: 50px;
+}
+
+.results-section .col-md-3 {
+    margin-bottom: 20px;
+}
+
+.container {
+    padding: 50px;
+    text-align: center;
+}
+
+
+
+
+.services {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.service {
+    background-color: #292929;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    text-align: left;
+}
+
+.service h3 {
+    margin-top: 0;
+}
+
+.service p {
+    color: #aaa;
+}
+
+.see-all {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    border: 1px solid #0b5d6b;
+    border-radius: 5px;
+    color: #0b5d6b;
+    text-decoration: none;
+}
+
+.see-all:hover {
+    background-color: #0b5d6b;
+    color: #fff;
+}
+
+.their {
+    width: 340px;
+    height: 40px;
+    background-color: rgb(218, 218, 218);
+    outline: none;
+    border: none;
+    border-radius: 5px;
+}
+
+.text-aria {
+    width: 682px;
+    height: 200px;
+    margin-top: 10px;
+    background-color: rgb(218, 218, 218);
+
+}
+
+.msg {
+    margin-left: -290px;
+}
+
+.bg-o1 {
+    background-image: url("./images/bg-1.webp");
+}
+
+.smart {
+    position: relative;
+}
+
+.smart-01 {
+    position: absolute;
+    top: 300px;
+}
+
+
+
+
+/* ============= ABOUT SECTION FULLL PAGE ============== */
+
+
+/* ============== TOP Nav Bar ================ */
+
+
+.top-nav-bar {
+    background-color: #0b5d6b;
+    height: auto;
+
+}
+
+
+
+.open-hoyrs p:hover {
+    cursor: pointer;
+    color: #00a6a6 !important;
+}
+
+
+.nav-contact p:hover {
+    cursor: pointer;
+    color: #00a6a6 !important;
+}
+
+.nav-contact img:hover {
+    background-color: #00BFA6;
+    cursor: pointer;
+    color: #00BFA6;
+    border-radius: 50px;
+
+
+
+}
+
+
+
+/* ============== Main Nav Bar ================ */
+
+
+.nav-logo-text {
+    background-color: #0b5d6b;
+    border-radius: 50px;
+    color: #3de3cd;
+    border-top-left-radius: 80px;
+    margin-top: 10px;
+    border-bottom-left-radius: 80px;
+}
+
+.nav-bar-right ul li a:hover {
+    color: #00a6a6 !important;
+    cursor: pointer;
+
+}
+
+.purches-btn{
+    background-color: #00BFA6 !important;
+}
+
+.main-navbar{
+    background-color: transparent;
+}
+#about-bg {
+    background-image: url("./images/About-bg.webp");
+    background-repeat: no-repeat;
+    width: auto;
+    height: 80vh;
+   
+}
+
+
+.about-bg-heading{
+    font-size: 10vw;
+}
+
+
+
+.pre-title{
+    color: #00a6a6;
+}
+
+
+/* .featured{
+    color: #00a6a6;
+    background-color:  #a7f4f4;
+    padding: 2px 10px ;
+
+} */
+
+
+.sub-pre-para{
+    color: #00a6a6;
+    background-color: none!important;
+}
+
+.btn-get-touch{
+    background-color: transparent;
+    border: 1px solid  #00BFA6 ;
+   
+}
+
+.btn-get-touch:hover{
+    background-color: #00BFA6 !important;
+    border: 2px solid  #00BFA6 ;
+    color:white !important;
+
+}
+
+
+.footer-cards h4:hover{
+    color: #00a6a6 !important;
+
+
+}
+
+
+
+.footer-cards a:hover{
+    color: #00a6a6 !important;
+
+
+}
+
+.hilight-para{
+    color: lightslategray;
+}
+
+.about-right-card-ss{
+    background-color: #00BFA6 !important;
+    color: white !important;
+}
+
+.team .quote {
+    background-color: #00a6a6;
+}
+
+
+.radial-numbers{
+    color: #00BFA6;
+    font-size: 40px;
+    font-weight: bold;
+ 
+   
+}
+
+.footer-cards{
+    background-color: rgb(46, 46, 46) !important;
+    box-shadow: 1px 1px 8px 6px rgb(71, 71, 71);
+    margin-top: 40px;
+    padding: 20px 20px;
+}
+
+
+.feature {
+    background-color: rgb(255, 255, 255);
+    border-radius: 6px;
+    padding: 20px;
+    box-shadow: 1px 1px 16px 0px rgba(119,136,153,1);
+  
+}
+
+
+
+.btn-ofcan{
+    background-color: black;
+    border: #00a6a6;
+}
+
+
+
+.threeoffcanva-collect{
+    background-color: transparent;
+}
+
+.search-ofcanva{
+    background-color: transparent;
+}
+
+
+
+
+.top-nav-header{
+    background-color:dark;
+    height: 15vh;
+}
+
+
+
+
+
+
+
+
+.main-hover-img-overly{
+    position: relative;
+    width: 50%;
+  }
+  
+  .image-for-overly {
+  
+    opacity: 4;
+    display: block;
+
+    transition: .5s ease;
+    backface-visibility: hidden;
+  }
+  
+  .middle {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  
+  .main-hover-img-overly:hover .image {
+    opacity: 0.3;
+  }
+  
+  .main-hover-img-overly:hover .middle {
+    opacity: 1;
+  }
+  
+  .middle:hover{
+    background-color: rgb(157, 192, 192) !important;
+
+     width: 100%;
+     height: 100%;
+     padding-top: 50%;
+     padding-left: 20%;
+     padding-right: 20%;
+
+  }
+  
+
+  
+
+@media screen and (max-width: 990px) {
+
+    .top-nav-bar {
+        display: none;
+    }
+
+ 
+    /* Increase specificity to override conflicting styles */
+    .nav-hide {
+        display: none;
+    }
+
+ .btns-nav {
+        display: flex;
+    }
+
+    .close-about-nav{
+        display: none;
+    }
+
+   
+}
+
+
+
+
+@media screen and (min-width: 990px) {
+
+    
+ .btns-nav {
+    display: none;
+}
+
+.offcanvas-closed-in-nav{
+    display: none;
+}
+    
+.navthreeofffree{
+    display: none;
+    background-color: black;
+}
+  
+
+}
+
